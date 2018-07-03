@@ -23,6 +23,7 @@ npm start
 ```
 
 Post to API: path/api/GPSData
+
 post data: 
 ```
 {
@@ -33,4 +34,5 @@ post data:
 ```
 
 response: data postion of all people posted in this server
+
 NOTE: data is save by local => restart server will delete all data.
